@@ -1,1 +1,1 @@
-*# A-_Country_Path_finder*
+# A-_Country_Path_finder
