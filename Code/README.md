@@ -9,3 +9,8 @@ ____Each value is a list of tuples representing neighbors and the cost to reach 
 
 
 # Heuristic Function
+____ Estimated cost from each country to the goal country ____
+
+____ Zero for Iran (since it's the starting point) ____
+
+____ These values help the algorithm prioritize promising paths ____
